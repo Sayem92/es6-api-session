@@ -1,0 +1,28 @@
+Our Objective: "Retrieve JSON data from an API and display them in the UI"
+
+1. Learn something about API
+
+2. Learn something about JSON
+
+3. Learn to destructure different type of objects
+
+4. Create UI using those objects
+
+5. Fetch Data from various APIs
+
+6. Build UI using data from random user API
+
+--------Final Project-------
+Explore openlibrary.org API
+    -search books via Title
+        Display them 
+    -retrieve information about an author
+        Display it in ui.
+    -Optional
+        -handle wrong search. show error message
+        -display spinner
+
+
+Slide Link: https://docs.google.com/presentation/d/1ZSiTEgYPf-k5jvV6c0RFnWEV1GU4gOCQ-nMQcWAf2AE/edit?usp=sharing
+
+Video link: https://www.youtube.com/watch?v=s7wmiS2mSXY
